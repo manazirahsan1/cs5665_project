@@ -10,7 +10,7 @@ This is a Kaggle project and the competition name is "OpenVaccine: Covid-19 mRNA
 
 
 ## Poster
-<img src="https://github.com/manazirahsan1/cs5665_project/blob/main/images/poster.png" alt="Poster" width="1000" height="700">
+<img src="https://github.com/manazirahsan1/cs5665_project/blob/main/images/poster.png" alt="Poster" width="1000" height="600">
 
 ## Model architecture in a brief diagram
 <img src="https://github.com/manazirahsan1/cs5665_project/blob/main/images/model%20architecture.png" width="500" height="400">
