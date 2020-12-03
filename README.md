@@ -9,7 +9,10 @@ This is Kaggle project and the competition name is "OpenVaccine: Covid-19 mRNA V
 4. It will take data from Kaggle and extract the output file in the working directory.
 
 
-## Model architecture in brief diagram:
+## Poster
+<img src="#" alt="It is under construction" width="500" height="400">
+
+## Model architecture in brief diagram
 <img src="https://github.com/manazirahsan1/cs5665_project/blob/main/images/model%20architecture.png" width="500" height="400">
 
 ## Loss per Epoch (both for GRU and LSTM Architecture)
