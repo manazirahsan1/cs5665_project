@@ -13,7 +13,7 @@ This is Kaggle project and the competition name is "OpenVaccine: Covid-19 mRNA V
 <img src="https://github.com/manazirahsan1/cs5665_project/blob/main/images/model%20architecture.png" width="500" height="400">
 
 ## Loss per Epoch (both for GRU and LSTM Architecture)
-![Loss per epoch curve](https://github.com/manazirahsan1/cs5665_project/blob/main/images/loss%20per%20epoch%202.png?=250x150)
+<img src="https://github.com/manazirahsan1/cs5665_project/blob/main/images/loss%20per%20epoch%202.png" width="350" height="600">
 
 ## Sample RNA figure
 ![RNA](https://github.com/manazirahsan1/cs5665_project/blob/main/images/mRNA.png?raw=true)
