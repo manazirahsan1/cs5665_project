@@ -10,10 +10,10 @@ This is Kaggle project and the competition name is "OpenVaccine: Covid-19 mRNA V
 
 
 ## Model architecture in brief diagram:
-![Model architecture](https://github.com/manazirahsan1/cs5665_project/blob/main/images/model%20architecture.png?raw=true)
+![Model architecture](https://github.com/manazirahsan1/cs5665_project/blob/main/images/model%20architecture.png?=250x250)
 
 ## Loss per Epoch (both for GRU and LSTM Architecture)
-![Loss per epoch curve](https://github.com/manazirahsan1/cs5665_project/blob/main/images/loss%20per%20epoch%202.png?raw=true)
+![Loss per epoch curve](https://github.com/manazirahsan1/cs5665_project/blob/main/images/loss%20per%20epoch%202.png?=250x150)
 
 ## Sample RNA figure
 ![RNA](https://github.com/manazirahsan1/cs5665_project/blob/main/images/mRNA.png?raw=true)
