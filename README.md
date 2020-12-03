@@ -1,5 +1,5 @@
 # CS 5665_project
-# OpenVaccine - Covid-19 mRNA Vaccine Degredation Prediction
+# OpenVaccine - Covid-19 mRNA Vaccine Degradation Prediction
 This is a Kaggle project and the competition name is "OpenVaccine: Covid-19 mRNA Vaccine Degradation Prediction".
 
 ## In order to execute the project, follow the below mentioned steps:
